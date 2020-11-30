@@ -1,0 +1,16 @@
+Android zadatak
+
+Specifikacije
+Cilj ovog zadatka je razvijanje jednostavne Android aplikacije. Na startu aplikacija bi trebala da dohvati listu postova i da ih prikaze. Svaki item u listi treba da sadrzi osnovna info polja tipa Title, Body... Kada korisnik klikne na item u listi aplikacija bi trebala da prikaze detaljni prikaz. Detaljni prikaz bi trebalo da sadrzi podatke sa drugog endpointa ukljucujuci podatke o korisniku, komentari, photo gridview (prikazati samo 20 slika sa /photos), sve ovo bi trebalo da je u nekom scrollabilnom view-u. Nema potrebe ici previse u detalje sa funkcionalnostima, koja polja prikazete u detaljnom prikazu je na vama da odlucite.
+
+API detalji
+Za endpointe koristiti Fake online REST API for testing - https://jsonplaceholder.typicode.com. Koristiti paginaciju, nemojte povlaciti sve odjednom. Sve sto je potrebno od informaicja za zadatak je objasnjeno na njihovoj stranici.
+
+Tehnicki zahtjevi
+- Java
+- Min Sdk Version 21
+- Dozvoljene sve 3rd party biblioteke
+
+Evaulacija
+Ukljuciti komentare objasnjavajuci sta vas kod radi, objasnjenja pri dizajnerskim odlukama.
+Dodatni bodovi za odlicnu organizaciju koda, arhitekturu, reusability i obradjivanje gresaka.

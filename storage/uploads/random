@@ -1,0 +1,147 @@
+1594121649641	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c5/jkc4xmzx3r1btxz6m0fnhlrr0000gn/T/rust_mozprofileQscRt8"
+1594121652431	Marionette	INFO	Listening on port 50206
+1594121652534	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594121673980	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c5/jkc4xmzx3r1btxz6m0fnhlrr0000gn/T/rust_mozprofile6571w7"
+1594121676629	Marionette	INFO	Listening on port 50286
+1594121676645	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594122193953	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c5/jkc4xmzx3r1btxz6m0fnhlrr0000gn/T/rust_mozprofileIdGNMC"
+1594122196805	Marionette	INFO	Listening on port 50413
+1594122196858	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594122212489	Marionette	INFO	Stopped listening on port 50206
+1594122213648	Marionette	INFO	Stopped listening on port 50286
+1594122216857	Marionette	INFO	Stopped listening on port 50413
+1594122855026	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c5/jkc4xmzx3r1btxz6m0fnhlrr0000gn/T/rust_mozprofileVmvBQJ"
+1594122857900	Marionette	INFO	Listening on port 50681
+1594122857937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cloud.thrivetracker.com/components/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594122935289	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c5/jkc4xmzx3r1btxz6m0fnhlrr0000gn/T/rust_mozprofileG8d7LA"
+1594122937991	Marionette	INFO	Listening on port 50783
+1594122938093	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cloud.thrivetracker.com/components/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594123029008	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c5/jkc4xmzx3r1btxz6m0fnhlrr0000gn/T/rust_mozprofilema6wke"
+1594123031745	Marionette	INFO	Listening on port 50878
+1594123031791	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cloud.thrivetracker.com/components/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594123043773	Marionette	INFO	Stopped listening on port 50681
+1594123044725	Marionette	INFO	Stopped listening on port 50783
+1594123047651	Marionette	INFO	Stopped listening on port 50878
+1594123070587	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c5/jkc4xmzx3r1btxz6m0fnhlrr0000gn/T/rust_mozprofileYotTmW"
+1594123073271	Marionette	INFO	Listening on port 50957
+1594123073366	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cloud.thrivetracker.com/components/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594123191973	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c5/jkc4xmzx3r1btxz6m0fnhlrr0000gn/T/rust_mozprofileNx5w63"
+1594123194658	Marionette	INFO	Listening on port 51089
+1594123194740	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cloud.thrivetracker.com/components/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594123494091	Marionette	INFO	Stopped listening on port 50957
+1594123495304	Marionette	INFO	Stopped listening on port 51089
+1594123556887	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c5/jkc4xmzx3r1btxz6m0fnhlrr0000gn/T/rust_mozprofileVFFCCi"
+1594123559563	Marionette	INFO	Listening on port 51240
+1594123559649	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cloud.thrivetracker.com/components/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594123589568	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c5/jkc4xmzx3r1btxz6m0fnhlrr0000gn/T/rust_mozprofileMuXwTz"
+1594123592284	Marionette	INFO	Listening on port 51314
+1594123592329	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cloud.thrivetracker.com/components/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cloud.thrivetracker.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cloud.thrivetracker.com"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594123731422	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c5/jkc4xmzx3r1btxz6m0fnhlrr0000gn/T/rust_mozprofileJTekwN"
+1594123733868	Marionette	INFO	Listening on port 51394
+1594123733904	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cloud.thrivetracker.com/components/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594124008354	Marionette	INFO	Stopped listening on port 51240
+1594124013327	Marionette	INFO	Stopped listening on port 51314
+1594124017629	Marionette	INFO	Stopped listening on port 51394
+1594124474878	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c5/jkc4xmzx3r1btxz6m0fnhlrr0000gn/T/rust_mozprofilePlQVA8"
+1594124477714	Marionette	INFO	Listening on port 51891
+1594124477756	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cloud.thrivetracker.com/components/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cloud.thrivetracker.com/components/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594124753534	Marionette	INFO	Stopped listening on port 51891
+1594128155216	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c5/jkc4xmzx3r1btxz6m0fnhlrr0000gn/T/rust_mozprofileAw0yp6"
+1594128158261	Marionette	INFO	Listening on port 52688
+1594128158352	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cloud.thrivetracker.com/components/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cloud.thrivetracker.com/components/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594130612021	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c5/jkc4xmzx3r1btxz6m0fnhlrr0000gn/T/rust_mozprofileT1zUaY"
+1594130616260	Marionette	INFO	Listening on port 53406
+1594130616331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cloud.thrivetracker.com/components/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594130630204	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c5/jkc4xmzx3r1btxz6m0fnhlrr0000gn/T/rust_mozprofilemn2TM7"
+1594130633147	Marionette	INFO	Listening on port 53492
+1594130633189	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cloud.thrivetracker.com/components/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cloud.thrivetracker.com/components/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594130704808	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c5/jkc4xmzx3r1btxz6m0fnhlrr0000gn/T/rust_mozprofileXC1Ddj"
+1594130707689	Marionette	INFO	Listening on port 53596
+1594130707785	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cloud.thrivetracker.com/components/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594130710001	Marionette	INFO	Stopped listening on port 53596
+1594130738383	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c5/jkc4xmzx3r1btxz6m0fnhlrr0000gn/T/rust_mozprofilefyIKKT"
+1594130740943	Marionette	INFO	Listening on port 53662
+1594130741042	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cloud.thrivetracker.com/components/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594130760907	Marionette	INFO	Stopped listening on port 53662
+1594130762170	Marionette	INFO	Stopped listening on port 53492
+1594130763533	Marionette	INFO	Stopped listening on port 53406
+1594130764739	Marionette	INFO	Stopped listening on port 52688
+1594130778998	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c5/jkc4xmzx3r1btxz6m0fnhlrr0000gn/T/rust_mozprofileFluXuY"
+1594130781678	Marionette	INFO	Listening on port 53734
+1594130781770	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cloud.thrivetracker.com/components/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594130798572	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c5/jkc4xmzx3r1btxz6m0fnhlrr0000gn/T/rust_mozprofileIbYZah"
+1594130801193	Marionette	INFO	Listening on port 53805
+1594130801254	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cloud.thrivetracker.com/components/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594130803683	Marionette	INFO	Stopped listening on port 53805
+1594130824736	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c5/jkc4xmzx3r1btxz6m0fnhlrr0000gn/T/rust_mozprofileFTiER0"
+1594130827492	Marionette	INFO	Listening on port 53878
+1594130827521	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cloud.thrivetracker.com/components/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://cloud.thrivetracker.com/components/jquery/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594130840925	Marionette	INFO	Stopped listening on port 53734
+1594130841462	Marionette	INFO	Stopped listening on port 53878
+1594131607009	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c5/jkc4xmzx3r1btxz6m0fnhlrr0000gn/T/rust_mozprofileC3oPHO"
+1594131609621	Marionette	INFO	Listening on port 53994
+1594131609675	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://thrivetracker.zendesk.com"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594132111780	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c5/jkc4xmzx3r1btxz6m0fnhlrr0000gn/T/rust_mozprofilecfSosM"
+1594132114687	Marionette	INFO	Listening on port 54210
+1594132114735	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://thrivetracker.zendesk.com"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://thrivetracker.zendesk.com"
+1594132262868	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c5/jkc4xmzx3r1btxz6m0fnhlrr0000gn/T/rust_mozprofilelMRP9J"
+1594132265729	Marionette	INFO	Listening on port 54305
+1594132265793	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594132354927	Marionette	INFO	Stopped listening on port 53994
+1594132357182	Marionette	INFO	Stopped listening on port 54305
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://thrivetracker.zendesk.com"
+1594132554350	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c5/jkc4xmzx3r1btxz6m0fnhlrr0000gn/T/rust_mozprofilew6dfs5"
+1594132556998	Marionette	INFO	Listening on port 54390
+1594132557035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594132576932	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c5/jkc4xmzx3r1btxz6m0fnhlrr0000gn/T/rust_mozprofilefwld2L"
+1594132579621	Marionette	INFO	Listening on port 54457
+1594132579709	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594132596164	Marionette	INFO	Stopped listening on port 54457
+1594132596299	Marionette	INFO	Stopped listening on port 54390
+1594132737971	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c5/jkc4xmzx3r1btxz6m0fnhlrr0000gn/T/rust_mozprofilemTw9VY"
+1594132740648	Marionette	INFO	Listening on port 54572
+1594132740745	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594132765249	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c5/jkc4xmzx3r1btxz6m0fnhlrr0000gn/T/rust_mozprofileW8o251"
+1594132767948	Marionette	INFO	Listening on port 54641
+1594132768007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594132960130	Marionette	INFO	Stopped listening on port 54210
+1594132960922	Marionette	INFO	Stopped listening on port 54572
+1594132961968	Marionette	INFO	Stopped listening on port 54641
