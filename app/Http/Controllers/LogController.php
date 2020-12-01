@@ -7,32 +7,33 @@ use Illuminate\Http\Request;
 
 class LogController extends Controller
 {
+    //function to display data
     public function display(){
 
         $empty = [];
         $files = scandir(storage_path() . '/uploads');
 
         foreach ($files as $file){
-            if ($file != '.' && $file != '..'){
 
+            if ($file != '.' && $file != '..'){
                 $name = $file;
                 $upload_time = date ("Y-m-d H:i:s",
                     filemtime(storage_path() . '/uploads/' . $file));
                 $size = filesize(storage_path() . '/uploads/'.$file);
 
                 $arrays = [
-
                     'name' => $name,
                     'upload_time' => $upload_time,
                     'size' => $size
-
                 ];
+
                 $empty[] = $arrays;
             }
         }
         return $empty;
     }
 
+    //function to upload data
     public function store(Request $req){
 
         try {
@@ -58,7 +59,7 @@ class LogController extends Controller
 
             return['name' => $_POST['name'], 'upload_time' => $upload_time];
 
-        }catch (Exception $exception) {
+        } catch (Exception $exception) {
             return ['error_msg'=>$exception->getMessage()];
         }
     }
