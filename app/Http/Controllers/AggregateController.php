@@ -67,9 +67,9 @@ class AggregateController extends Controller
             while($row = fgets($fn)) {
 
                 $methodPos1 = strpos($row, '"');
-                $methodPos2 = strpos($row, '/');
+                $methodPos2 = strpos($row, ' /');
                 $methodLength = $methodPos2 - $methodPos1;
-                $methodPos = substr($row, $methodPos1 + 1, $methodLength - 2);
+                $methodPos = substr($row, $methodPos1 + 1, $methodLength - 1);
 
                 $pos1 = strpos($row, '[');
                 $pos2 = strpos($row, ']');
@@ -117,13 +117,13 @@ class AggregateController extends Controller
             $array = [];
             while ($row = fgets($fn)) {
 
-                $urlPos = strpos($row, '/');
+                $urlPos = strpos($row, ' /');
                 $urlPos2 = strpos($row, '?');
                 if ($urlPos2 === false) {
                     $urlPos2 = strpos($row, ' ', $urlPos);
                 }
                 $urlLength = $urlPos2 - $urlPos;
-                $sUrl = substr($row, $urlPos, $urlLength);
+                $sUrl = substr($row, $urlPos + 1, $urlLength);
 
                 $pos1 = strpos($row, '[');
                 $pos2 = strpos($row, ']');

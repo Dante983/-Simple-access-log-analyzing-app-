@@ -36,6 +36,8 @@ class LogController extends Controller
     //function to upload data
     public function store(Request $req){
 
+        $file = storage_path() . '/uploads/' . $_POST['name'];
+
         try {
 
             if ($req->file('file')->getSize() > (1024*1024) * 100){
@@ -55,7 +57,7 @@ class LogController extends Controller
             $req->file('file')->move(storage_path() . '/uploads', $_POST['name']);
 
             $upload_time = date ("Y-m-d H:i:s",
-                filectime(storage_path() . '/uploads/' . $_POST['name']));
+                filectime($file));
 
             return['name' => $_POST['name'], 'upload_time' => $upload_time];
 
